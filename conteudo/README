@@ -1,0 +1,23 @@
+ORGANIZAÇÃO DOS MATERIAIS
+
+Crie pastas conforme houver conteúdo, agrupando primeiro por tema e depois por
+formato. Por exemplo, um tema pode conter materiais de texto e apresentações.
+Use nomes descritivos e mantenha cada material e suas referências juntos na
+mesma pasta. Evite criar categorias vazias antecipadamente.
+
+Cada material deve informar:
+- Título, tema, formato, público e objetivo educacional.
+- Autoria e responsáveis pela revisão clínica, quando concluída.
+- Estado da revisão clínica: pendente ou concluída; se concluída, data da
+  revisão e identificação do profissional revisor.
+- Data da última atualização, no formato AAAA-MM-DD.
+- Fontes e referências suficientes para localizar cada obra, incluindo links
+  quando disponíveis e datas de acesso para fontes online.
+- Licença e atribuições aplicáveis, inclusive permissões de terceiros quando
+  necessárias.
+- Limitações relevantes e indicação de que o material é educacional, não uma
+  orientação clínica individual.
+
+Para materiais em formatos que não comportem esses dados, mantenha um arquivo
+de texto ao lado do material com os mesmos metadados e referências. Consulte
+CONTRIBUTING na raiz para os critérios editoriais e o fluxo de revisão.

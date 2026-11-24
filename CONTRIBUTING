@@ -1,0 +1,46 @@
+COMO CONTRIBUIR
+
+Propostas e alterações
+---------------------
+1. Abra uma issue para propor um tema, relatar uma correção ou discutir uma
+   mudança significativa. Descreva o público, o objetivo e as fontes previstas.
+2. Crie uma alteração focada e organize o material conforme conteudo/README.
+   Inclua os metadados e as referências junto ao material.
+3. Envie um pull request descrevendo o que mudou, por quê, as fontes consultadas,
+   eventuais permissões necessárias e as limitações conhecidas. Indique se há
+   impacto no conteúdo clínico e solicite revisão quando necessário.
+4. Responda aos comentários e atualize a proposta. Um mantenedor revisa a
+   organização, os direitos e o fluxo de contribuição. Conteúdo clínico novo
+   ou alterado também exige revisão por profissional de saúde com conhecimento
+   pertinente antes da publicação. O autor não deve ser o único revisor.
+5. Após as revisões e a resolução dos comentários, um mantenedor decide sobre
+   a incorporação. Registre no material a data e o estado da revisão clínica;
+   não indique revisão concluída antes de ela ocorrer.
+
+Critérios editoriais
+-------------------
+Escreva para o público indicado, com linguagem clara e escopo definido. Apoie
+afirmações clínicas em fontes confiáveis e identificáveis, priorizando
+evidências e diretrizes pertinentes. Informe limitações e contexto de
+aplicação; não apresente conteúdo educacional como orientação individual.
+Registre a data da última atualização e a situação da revisão clínica em cada
+material. Reavalie o conteúdo quando houver mudança relevante nas evidências ou
+nas diretrizes e corrija ou sinalize material desatualizado.
+
+Privacidade e direitos
+---------------------
+Não inclua dados pessoais ou informações de pacientes, mesmo em exemplos,
+issues, comentários ou históricos de alterações. Use exemplos fictícios que
+não permitam identificar pessoas.
+
+Envie somente conteúdo próprio ou cuja licença e permissões permitam sua
+inclusão e distribuição sob a licença do repositório. Identifique fontes,
+autoria e condições aplicáveis; citar uma fonte não concede permissão para
+reproduzir seu conteúdo. Não inclua imagens, trechos ou outros materiais de
+terceiros sem os direitos necessários.
+
+Código e testes
+--------------
+Não é necessária uma aplicação para manter a biblioteca inicial. Caso uma
+necessidade concreta justifique código, proponha antes sua finalidade,
+tecnologia, manutenção e testes adequados.

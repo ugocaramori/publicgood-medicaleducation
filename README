@@ -1,0 +1,37 @@
+PUBLIC GOOD — EDUCAÇÃO MÉDICA
+
+Propósito e público
+------------------
+Este repositório começa como uma biblioteca aberta de materiais de educação
+médica, voltada a estudantes, profissionais de saúde e educadores. Seu
+objetivo é facilitar o acesso e a colaboração em materiais educacionais
+fundamentados em fontes identificáveis. Uma plataforma ou aplicação poderá
+ser considerada posteriormente, se houver necessidade.
+
+O repositório ainda não contém materiais educacionais publicados.
+
+Como usar
+---------
+Consulte a pasta conteudo/ para encontrar materiais organizados por tema e
+formato. Leia as fontes, a data de atualização e o estado de revisão de cada
+material antes de utilizá-lo. As orientações de organização e o modelo de
+metadados estão em conteudo/README.
+
+Os materiais têm finalidade educacional. Eles não substituem avaliação
+individual, julgamento clínico, protocolos locais ou orientação de um
+profissional de saúde. Verifique as fontes e recomendações vigentes antes de
+tomar decisões clínicas.
+
+Como contribuir
+---------------
+Sugestões, correções e novos materiais são bem-vindos. Leia CONTRIBUTING
+antes de abrir uma issue ou enviar uma alteração. Esse documento explica o
+fluxo de revisão e os cuidados editoriais, de privacidade e de direitos de
+uso.
+
+Licença
+-------
+O repositório possui licença MIT; consulte LICENSE. Contribua apenas com
+conteúdo que possa ser disponibilizado sob essa licença. Materiais de
+terceiros podem ter condições próprias: não presuma que a licença do
+repositório conceda direitos sobre eles.
